@@ -2,7 +2,7 @@
 Negative Prototypes Guided Contrastive Learning for Weakly Supervised Object Detection
 
 ## Citation 
-If you use this data for your research, please cite our paper [Negative Prototypes Guided Contrastive Learning for Weakly Supervised Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-43415-0_3):
+If this paper is useful for your research, please kindly cite our paper [Negative Prototypes Guided Contrastive Learning for Weakly Supervised Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-43415-0_3):
 
 ```
 @inproceedings{zhang2023negative,
